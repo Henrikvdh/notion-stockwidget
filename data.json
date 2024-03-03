@@ -1,141 +1,144 @@
 {
   "width": "100%",
-  "height": "600",
+  "height": "100%",
   "symbolsGroups": [
     {
-      "name": "Stocks",
+      "name": "Actions",
       "symbols": [
         {
-          "name": "NASDAQ:AMZN",
-          "displayName": "AMZN - Amazon"
+          "name": "TSX:ZWC"
         },
         {
-          "name": "TSX:BB",
-          "displayName": "BB - Blackberry"
+          "name": "NASDAQ:INTC"
         },
         {
-          "name": "TSX:BEPC",
-          "displayName": "BEPC - Brookfield Renewable"
+          "name": "NYSE:STLA"
         },
         {
-          "name": "TSX:BEP.UN",
-          "displayName": "BEP.UN - Brookfield Renewable"
+          "name": "NYSE:CVX"
         },
         {
-          "name": "TSX:BIP.UN",
-          "displayName": "BIP.UN - Brookfield Infrastructure"
+          "name": "TSX:BBD.B"
         },
         {
-          "name": "TSX:BMO",
-          "displayName": "BMO - Bank of Montreal"
+          "name": "TSX:PZA"
         },
         {
-          "name": "NASDAQ:CLAR",
-          "displayName": "CLAR - Clarus (BD)"
+          "name": "TSX:CP"
         },
         {
-          "name": "NYSE:GME",
-          "displayName": "GME - Gamestop"
+          "name": "NASDAQ:AAPL"
         },
         {
-          "name": "TSXV:GRN",
-          "displayName": "GRN.V - Greenlane Renewables"
+          "name": "NYSE:PSA"
         },
         {
-          "name": "TSX:GRT.UN",
-          "displayName": "GRT.UN - Granite REIT"
+          "name": "NYSE:KO"
         },
         {
-          "name": "TSX:LSPD",
-          "displayName": "LSPD - Lightspeed"
+          "name": "NASDAQ:AMZN"
         },
         {
-          "name": "NASDAQ:MSFT",
-          "displayName": "MSFT - Microsoft"
+          "name": "NYSE:BLK"
         },
         {
-          "name": "NYSE:PLTR",
-          "displayName": "PLTR - Palantir"
+          "name": "NYSE:MAIN"
         },
         {
-          "name": "TSX:VET",
-          "displayName": "VET - Vermillion Energy"
-        }
-      ]
-    },
-    {
-      "name": "ETFs",
-      "symbols": [
-        {
-          "name": "NASDAQ:BOTZ",
-          "displayName": "BOTZ - Robots & AI"
+          "name": "NASDAQ:SBLK"
         },
         {
-          "name": "AMEX:IPAY",
-          "displayName": "IPAY - Mobile/FinTech"
+          "name": "TSX:NA"
         },
         {
-          "name": "NASDAQ:QCLN",
-          "displayName": "QCLN - Clean Energy Index"
+          "name": "NASDAQ:MSFT"
         },
         {
-          "name": "NASDAQ:SKYY",
-          "displayName": "SKYY - Cloud Computing"
+          "name": "TSX:SIS"
         },
         {
-          "name": "TSX:TEC",
-          "displayName": "TEC - Technology Index"
+          "name": "NYSE:PG"
         },
         {
-          "name": "TSX:XIT",
-          "displayName": "XIT - CAD Tech Index"
+          "name": "NASDAQ:CROX"
         },
         {
-          "name": "TSX:ZRE",
-          "displayName": "ZRE - REITs"
+          "name": "NYSE:MXF"
         },
         {
-          "name": "TSX:ZUT",
-          "displayName": "ZUT - Utilities"
+          "name": "NYSE:MCD"
         },
         {
-          "name": "TSX:ZWB",
-          "displayName": "ZWB - CC Banks"
+          "name": "AMEX:SWAN"
         },
         {
-          "name": "TSX:ZWU",
-          "displayName": "ZWU - CC Utilities"
-        }
-      ]
-    },
-    {
-      "name": "Watch List",
-      "symbols": [
-        {
-          "name": "NASDAQ:CRSR",
-          "displayName": "CRSR - Corsair"
+          "name": "TSX:RY"
         },
         {
-          "name": "NYSE:DM",
-          "displayName": "DM - Desktop Metal"
+          "name": "TSXV:GMG"
         },
         {
-          "name": "NYSE:PRLB",
-          "displayName": "PRLB - PROTO Labs"
+          "name": "TSX:TD"
         },
         {
-          "name": "AMEX:PRNT",
-          "displayName": "PRNT - 3D Printing"
+          "name": "NASDAQ:QUBT"
         },
         {
-          "name": "NYSE:SQ",
-          "displayName": "SQ - Square"
+          "name": "NASDAQ:SELF"
+        },
+        {
+          "name": "TSXV:LI"
+        },
+        {
+          "name": "NYSE:GGB"
+        },
+        {
+          "name": "TSX:ENB"
+        },
+        {
+          "name": "TSX:TA"
+        },
+        {
+          "name": "NYSE:O"
+        },
+        {
+          "name": "TSX:CGX"
+        },
+        {
+          "name": "NASDAQ:PSEC"
+        },
+        {
+          "name": "NYSE:LUMN"
+        },
+        {
+          "name": "TSX:AC"
+        },
+        {
+          "name": "TSXV:HIVE"
+        },
+        {
+          "name": "OTC:WLMSQ"
+        },
+        {
+          "name": "TSX:GURU"
+        },
+        {
+          "name": "TSX:SHOP"
+        },
+        {
+          "name": "NASDAQ:SEEL"
+        },
+        {
+          "name": "AMEX:COPX"
+        },
+        {
+          "name": "AMEX:NLR"
         }
       ]
     }
   ],
   "showSymbolLogo": true,
-  "colorTheme": "dark",
   "isTransparent": true,
+  "colorTheme": "light",
   "locale": "en"
 }
